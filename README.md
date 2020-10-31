@@ -1,4 +1,4 @@
-# EZ-farm_Selfbot
+# Bad Boy
 
 Bad Boy Raid Bot
 
