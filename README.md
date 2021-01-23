@@ -32,9 +32,7 @@ pip3 install discord.py
 ```
 
 ## Usage
-Put the bot token in "TOKEN" at the top of the script
-
-How to get your discord token: https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
+Put the bot token in "TOKEN" at the top of the script<br />How to get your discord token: https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
 ```sh
 python3 EzFarm.py
 ```
